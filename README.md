@@ -17,15 +17,15 @@ The idea is to have the "ballot box" on a public blockchain. We'll be creating a
 
 4. Tech Stack Breakdown
 - Solana:
-- - Rust program (Anchor framework if you want faster dev).
-- - Stores polls + final results.
+    - Rust program (Anchor framework if you want faster dev).
+    - Stores polls + final results.
 - WARP:
-- - Job runner + API backend:
-- - HTTP endpoints to receive signed votes.
-- - Cron-like jobs for “poll ended → finalize.”
-- - RPC calls to Solana to verify eligibility and send transactions.
+    - Job runner + API backend:
+    - HTTP endpoints to receive signed votes.
+    - Cron-like jobs for “poll ended → finalize.”
+    - RPC calls to Solana to verify eligibility and send transactions.
 - Frontend:
-- - React / Next.js (or SvelteKit) + TypeScript.
-- - Wallet adapter for Solana.
-- - Simple charts for results (e.g., Recharts).
+    - React / Next.js (or SvelteKit) + TypeScript.
+    - Wallet adapter for Solana.
+    - Simple charts for results (e.g., Recharts).
 
