@@ -1,0 +1,25 @@
+[toolchain]
+anchor_version = "0.32.1"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.devnet]
+govai_polls = "GYzboJk8vMriHVHHcVB1jkcgvjjx2E3p9taf6sMYtKAQ"
+
+[programs.localnet]
+govai_polls = "GYzboJk8vMriHVHHcVB1jkcgvjjx2E3p9taf6sMYtKAQ"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[workspace]
+members = ["programs/govai_polls"]
+
+[scripts]
+test = "tsx tests/govai_polls.ts"

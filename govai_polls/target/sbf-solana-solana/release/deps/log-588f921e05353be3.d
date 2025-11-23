@@ -1,0 +1,10 @@
+/Users/sujayanamangandla/Hack-Western/Hackwestern/govai_polls/target/sbf-solana-solana/release/deps/liblog-588f921e05353be3.rmeta: /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/lib.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/macros.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/serde.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/__private_api.rs
+
+/Users/sujayanamangandla/Hack-Western/Hackwestern/govai_polls/target/sbf-solana-solana/release/deps/liblog-588f921e05353be3.rlib: /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/lib.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/macros.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/serde.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/__private_api.rs
+
+/Users/sujayanamangandla/Hack-Western/Hackwestern/govai_polls/target/sbf-solana-solana/release/deps/log-588f921e05353be3.d: /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/lib.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/macros.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/serde.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/__private_api.rs
+
+/Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/lib.rs:
+/Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/macros.rs:
+/Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/serde.rs:
+/Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/__private_api.rs:

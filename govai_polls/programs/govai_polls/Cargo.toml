@@ -1,0 +1,22 @@
+[package]
+name = "govai_polls"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[lib]
+name = "govai_polls"
+crate-type = ["cdylib", "lib"]
+
+[features]
+no-entrypoint = []
+no-idl = []
+idl-build = ["anchor-lang/idl-build"]
+cpi = []
+custom-heap = []
+custom-panic = []
+anchor-debug = []
+no-log-ix-name = []
+
+[dependencies]
+anchor-lang = "0.32.1"

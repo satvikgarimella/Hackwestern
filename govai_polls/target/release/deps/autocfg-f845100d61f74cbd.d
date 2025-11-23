@@ -1,0 +1,10 @@
+/Users/sujayanamangandla/Hack-Western/Hackwestern/govai_polls/target/release/deps/libautocfg-f845100d61f74cbd.rmeta: /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/lib.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/error.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/rustc.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/version.rs
+
+/Users/sujayanamangandla/Hack-Western/Hackwestern/govai_polls/target/release/deps/libautocfg-f845100d61f74cbd.rlib: /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/lib.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/error.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/rustc.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/version.rs
+
+/Users/sujayanamangandla/Hack-Western/Hackwestern/govai_polls/target/release/deps/autocfg-f845100d61f74cbd.d: /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/lib.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/error.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/rustc.rs /Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/version.rs
+
+/Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/lib.rs:
+/Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/error.rs:
+/Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/rustc.rs:
+/Users/sujayanamangandla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.5.0/src/version.rs:

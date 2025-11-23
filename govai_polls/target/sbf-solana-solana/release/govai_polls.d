@@ -1,0 +1,1 @@
+/Users/sujayanamangandla/Hack-Western/Hackwestern/govai_polls/target/sbf-solana-solana/release/govai_polls.so: /Users/sujayanamangandla/Hack-Western/Hackwestern/govai_polls/programs/govai_polls/src/lib.rs
