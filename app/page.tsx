@@ -638,7 +638,7 @@ export default function GovAIDashboard() {
       {/* Backend Status */}
       {!backendOnline && (
         <div className="bg-yellow-950/50 border-b border-yellow-500/30 px-4 py-2 text-center text-sm text-yellow-400">
-          ⚠️ Backend API offline. Make sure it's running on http://localhost:8000
+        
         </div>
       )}
 
