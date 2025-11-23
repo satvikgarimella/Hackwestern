@@ -6,16 +6,14 @@ The Decentralized Polling System is essentially a way to run polls without someo
 - Preventing Secretly changed results
 - Avoids fake votes
 - Anyone can verify the outcome
-- The system still fucntions regardless of changes in parties
+- The system still functions regardless of changes in parties
 - User has control of identity as they keep their own ballet via wallet signatures
 
 ## Web Application
 The idea is to have the "ballot box" on a public blockchain. We'll be creating a web app using React.
 
 
-## Tech Stack
-
-4. Tech Stack Breakdown
+## Tech Stack Breakdown
 - Solana:
     - Rust program (Anchor framework if you want faster dev).
     - Stores polls + final results.
@@ -28,4 +26,8 @@ The idea is to have the "ballot box" on a public blockchain. We'll be creating a
     - React / Next.js (or SvelteKit) + TypeScript.
     - Wallet adapter for Solana.
     - Simple charts for results (e.g., Recharts).
+
+
+## Authentication
+
 
