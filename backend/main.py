@@ -24,10 +24,11 @@ app = FastAPI(title="GovAI Backend", version="1.0.0")
 # CORS configuration for Next.js frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:3000",
-        "https://govai-plum.vercel.app",
-        os.getenv("FRONTEND_URL", "http://localhost:3000")
+allow_origins=[
+    "http://localhost:3000",
+    "https://govai-plum.vercel.app",
+    "https://gov-ai-eight.vercel.app",  # Add this line
+    os.getenv("FRONTEND_URL", "http://localhost:3000")
     ],
     allow_credentials=True,
     allow_methods=["*"],
